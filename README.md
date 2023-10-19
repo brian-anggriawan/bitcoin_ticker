@@ -1,2 +1,4 @@
-# bitcoin_ticker
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+# Bitcoin Ticker 
+![Alt Text](https://github.com/londonappbrewery/Images/blob/master/bitcoin-flutter-demo.gif)
+
+
